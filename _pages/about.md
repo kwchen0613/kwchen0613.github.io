@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About me
 
 I am a Post-doctoral Fellow in Meiji Institute for Advanced Study of Mathematical Sciences (MIMS), Meiji University.
 
