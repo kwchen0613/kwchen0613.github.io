@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## About me
+
 I am a Post-doctoral Fellow in Meiji Institute for Advanced Study of Mathematical Sciences (MIMS), Organization for the Strategic Coordination of Research and Intellectual Properties, Meiji University.
 My research focuses on the oscillatory dynamics of coupled-cell systems, where I employ methods from dynamical systems theory and differential equations to analyze and interpret a variety of biological rhythms. 
 In parallel, I study the existence of traveling waves confined to a half-space for the delayed Fisher-KPP equations. 
