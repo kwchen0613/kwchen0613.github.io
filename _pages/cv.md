@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Applied Mathematics, National Yang Ming Chaio Tung University, 2021
+* M.S. Applied Mathematics, Mathematical Modeling and Scientific Computing, National Chiao Tung University, 2013
+* B.S. Mathematics, National Taiwan Normal University, 2011
 
-Work experience
+Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.10-now: Postdoctoral Research Fellow
+  * Meiji Institute for Advanced Study of Mathematical Sciences, Meiji University
+  * Mentor: Professor Toshiyuki Ogawa
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.08-2025.09: Postdoctoral Research Fellow
+  * National Center for Theoretical Sciences, National Taiwan University
+  * Mentor: Professor Chang-Hong Wu
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.08-2023.07: Substitute Teacher
+  * Yanping High School
   
 Skills
 ======
