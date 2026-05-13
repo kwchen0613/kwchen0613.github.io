@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "The 10th Pacific Rim Conference on Mathematics<br />Institute of Mathematics, Academia Sinica; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
   ]
 ];
